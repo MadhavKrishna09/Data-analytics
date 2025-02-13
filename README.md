@@ -9,7 +9,7 @@ This project analyzes healthcare data to improve patient outcomes and identify c
 - [Methodology](#methodology)
 - [Key Findings](#key-findings)
 - [Tools Used](#tools-used)
-- [Contact](#contact)
+
 
 ## Project Overview
 
